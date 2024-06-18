@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/meet-landing-page-ZaehdSuyzz)
+- Live Site URL: [Demo](https://meet-landing-page-fem.netlify.app/)
 
 ## My process
 
